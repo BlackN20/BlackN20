@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Victor Coriolano</h1>
+<h1 align="center">I'm Victor Coriolano</h1>
 <h3 align="center">A passionate developer from Brazil focused on automation, AI, and web technologies</h3>
 
-- 🔭 I’m currently working on **Bot de Feedback**
+-  I’m currently working on **Bot de Feedback**
 
-- 🌱 I’m currently learning **Node.js frameworks (Express, NestJS), advanced n8n automations, React & Vue**
+-  I’m currently learning **Node.js frameworks (Express, NestJS), advanced n8n automations, React & Vue**
 
-- 👯 I’m looking to collaborate on **Any automation or web development projects**
+-  I’m looking to collaborate on **Any automation or web development projects**
 
-- 🤝 I’m looking for help with **AI/ML experiments and advanced automation workflows**
+-  I’m looking for help with **AI/ML experiments and advanced automation workflows**
 
-- 💬 Ask me about **JavaScript, Python, n8n, automation, AI agents**
+-  Ask me about **JavaScript, Python, n8n, automation, AI agents**
 
-- 📫 How to reach me **vhugocoriolano123@gmail.com**
+-  How to reach me **vhugocoriolano123@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/victor-hugo-56060928b](www.linkedin.com/in/victor-hugo-56060928b)
+-  Know about my experiences [www.linkedin.com/in/victor-hugo-56060928b](www.linkedin.com/in/victor-hugo-56060928b)
 
-- ⚡ Fun fact **I’m a gamer and always exploring new tech tools 🎮**
+-  Fun fact **I’m a gamer and always exploring new tech tools 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
