@@ -1,5 +1,5 @@
-<h1 align="center">I'm Victor Coriolano</h1>
-<h3 align="center">A passionate developer from Brazil focused on automation, AI, and web technologies</h3>
+<h1>I'm Victor Coriolano</h1>
+<h3>A passionate developer from Brazil focused on automation, AI, and web technologies</h3>
 
 -  I’m currently working on **Bot de Feedback**
 
